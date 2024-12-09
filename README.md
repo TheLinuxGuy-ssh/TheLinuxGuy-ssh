@@ -5,10 +5,9 @@ I am an intermediate developer with 6 years of experience in web development and
 </p>
 <br>
 
-
 <p>
 <h1 align="center">Projects</h1>
- <a href="https://smacosma2k24.tech/"><img src="https://github.com/user-attachments/assets/ed78799c-855d-482b-943f-f0044eafec7f" width="49.5%"></a>
+ <a href="https://smacosma2k24.tech/"><img src="https://github.com/user-attachments/assets/d2349c45-57f4-4ecb-ac03-ee30e847e5a7" width="49.5%"></a>
 <a href="https://TheLinuxGuy-ssh.github.io/cosma/"><img src="https://github.com/rohansharma-developer/rohansharma-developer/assets/107614947/15c13952-72e5-4789-b115-8e83cb49948d" width="49.5%"></a>
 <a href="https://TheLinuxGuy-ssh.github.io/Senarc_Website/"><img src="https://github.com/rohansharma-developer/rohansharma-developer/assets/107614947/f27d4f67-7371-4e9b-929d-0d0c2e2a4a2b" width="49.5%"></a>
 <a href="https://mismeerut.com"><img src="https://github.com/rohansharma-developer/rohansharma-developer/assets/107614947/f8f2ae51-c8e6-49f3-a095-bdce62b38ef9" width="49.5%"></a>
