@@ -23,7 +23,6 @@ I am an intermediate developer with 6 years of experience in web development and
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thelinuxguy-ssh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheLinuxGuy-ssh)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=thelinuxguy-ssh&icon=0&color=0)](https://visitcount.itsvg.in)
 
