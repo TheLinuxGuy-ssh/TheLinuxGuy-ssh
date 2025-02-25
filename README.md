@@ -26,4 +26,4 @@ I am an intermediate developer with 6 years of experience in web development and
 ---
 [![](https://visitcount.itsvg.in/api?id=thelinuxguy-ssh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=thelinuxguy-ssh&color=grey)
