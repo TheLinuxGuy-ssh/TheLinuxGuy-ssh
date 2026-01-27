@@ -1,39 +1,61 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsXw0u5R0LrjZyQ/giphy.gif" width="300"/>
+</p>
 
-###
+<h1 align="center">
+  <span style="color:#00FF00;">TheLinuxGuy-SSH</span>
+</h1>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="60" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="60" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo"  />
-</div>
+<p align="center">
+  <em style="color:#00FF00;">Server Admin | Web Developer | Tech Creator | Minimalist Thinker</em>
+</p>
 
-###
+---
 
-<br clear="both">
+<p align="center">
+  <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thelinuxguy-ssh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=thelinuxguy-ssh&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />  
-  <img src="https://github-profile-trophy.vercel.app?username=thelinuxguy-ssh&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
+
+## <span style="color:#00FF00;">💻 About Me</span>
+
+
+- 🌱 Currently exploring **TypeScript, React, Full-Stack Web Development**  
+- ⚡ Fun Projects: DarwinX (macOS online experience), TLG-Start-Page, SkillHive, Unite.Do  
+- 🎧 Music fuels my work — cinematic scores, phonk, energy beats  
+- 🛠 I turn ideas into **tools, workflows, and experiences**  
+
+---
+
+## <span style="color:#00FF00;">📂 My Projects</span>
+
+| Project | Tech | Status | Description |
+|---------|------|--------|-------------|
+| **[SkillHive](https://github.com/thelinuxguy-ssh/SkillHive)** | TypeScript | 🔥 Active | Skill tracking and learning tool for personal growth. |
+| **[DarwinX](https://github.com/thelinuxguy-ssh/DarwinX)** | JavaScript | 🔥 Active | macOS online experience for fun and learning. |
+| **[TLG-Start-Page](https://github.com/thelinuxguy-ssh/TLG-Start-Page)** | JS | 🔥 Active | Minimal, highly customizable browser start page. |
+| **[Unite.Do](https://github.com/thelinuxguy-ssh/Unite.Do)** | TypeScript | 🔥 Active | Productivity tool to manage tasks and projects efficiently. |
+
+---
+
+## <span style="color:#00FF00;">⚡ GitHub Stats</span>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thelinuxguy-ssh&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thelinuxguy-ssh&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## <span style="color:#00FF00;">📫 Connect With Me</span>
+
+<p align="center">
+  <a href="mailto:mr.linux.0@protonmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
