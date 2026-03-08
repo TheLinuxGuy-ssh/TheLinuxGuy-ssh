@@ -12,7 +12,7 @@ thelinuxguy-ssh@github
 <span style="color:#39ff14;">FW:</span> React · Node
 <span style="color:#39ff14;">Stack:</span> Nginx · MySQL
 
-<span style="color:#39ff14;">Projects:</span> SkillHive · DarwinX · Start-Page · Unite.Do
+<span style="color:#39ff14;">Projects:</span> TheSpartanRage · DarwinX · Start-Page · Unite.Do
 <span style="color:#39ff14;">Mode:</span> Building · Learning · Privacy
 <span style="color:#39ff14;">Music:</span> Soundtracks · Phonk · Soul
 </pre>
