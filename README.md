@@ -9,7 +9,7 @@ thelinuxguy-ssh@github
 <span style="color:#39ff14;">Theme:</span> Matrix Dark
 
 <span style="color:#39ff14;">Lang:</span> JS · TS · BASH       
-<span style="color:#39ff14;">FW:</span> React · Node
+<span style="color:#39ff14;">FW:</span>Svelte(basics) · React · Node
 <span style="color:#39ff14;">Stack:</span> Nginx · MySQL
 
 <span style="color:#39ff14;">Projects:</span> TheSpartanRage · DarwinX · Start-Page · Unite.Do
