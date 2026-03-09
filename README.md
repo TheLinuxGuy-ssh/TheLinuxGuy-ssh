@@ -16,7 +16,8 @@ thelinuxguy-ssh@github
 <span style="color:#39ff14;">Mode:</span> Building · Learning · Privacy
 <span style="color:#39ff14;">Music:</span> Soundtracks · Phonk · Soul
 </pre>
-
+<br>
+<h2 align="center">Typing Speeds</h2>
 <p align="center">
   <a href="https://monkeytype.com/profile/TheLinuxGuy-ssh">
     <img src="https://raw.githubusercontent.com/thelinuxguy-ssh/thelinuxguy-ssh/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
