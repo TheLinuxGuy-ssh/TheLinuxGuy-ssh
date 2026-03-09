@@ -18,5 +18,5 @@ thelinuxguy-ssh@github
 </pre>
 
 <a href="https://monkeytype.com/profile/TheLinuxGuy-ssh">
-  <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
+  <img src="https://raw.githubusercontent.com/thelinuxguy-ssh/thelinuxguy-ssh/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
 </a>
