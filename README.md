@@ -17,6 +17,10 @@ thelinuxguy-ssh@github
 <span style="color:#39ff14;">Music:</span> Soundtracks · Phonk · Soul
 </pre>
 <br>
+<h2 align="center">Current Desktop</h2>
+    <img width="1360" height="767" alt="2026-03-12-022100_hyprshot" src="https://github.com/user-attachments/assets/d105bdfb-4ffb-4c94-828d-505e43101552" />
+
+<br>
 <h2 align="center">Typing Speeds</h2>
 <p align="center">
   <a href="https://monkeytype.com/profile/TheLinuxGuy-ssh">
