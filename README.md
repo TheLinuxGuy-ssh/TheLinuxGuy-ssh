@@ -18,7 +18,8 @@ thelinuxguy-ssh@github
 </pre>
 <br>
 <h2 align="center">Current Desktop</h2>
-    <img width="1360" height="767" alt="2026-03-12-022100_hyprshot" src="https://github.com/user-attachments/assets/d105bdfb-4ffb-4c94-828d-505e43101552" />
+
+![hypr](https://github.com/user-attachments/assets/093a0dcb-837a-4f1f-b273-21f5e99759e8)
 
 <br>
 <h2 align="center">Typing Speeds</h2>
