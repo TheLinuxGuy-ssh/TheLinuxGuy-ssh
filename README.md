@@ -19,7 +19,8 @@ thelinuxguy-ssh@github
 <br>
 <h2 align="center">Current Desktop</h2>
 
-![hypr](https://github.com/user-attachments/assets/093a0dcb-837a-4f1f-b273-21f5e99759e8)
+![hyprtoji](https://github.com/user-attachments/assets/2e61a674-8bad-4943-8b5a-d013deb8b2c5)
+
 
 <br>
 <h2 align="center">Typing Speeds</h2>
