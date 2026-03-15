@@ -19,7 +19,7 @@ thelinuxguy-ssh@github
 <br>
 <h2 align="center">Current Desktop</h2>
 
-<img src="./toji.gif" alt="hyprtoji")
+<img src="./hyprfect.gif" alt="hyprtoji">
 
 
 <br>
