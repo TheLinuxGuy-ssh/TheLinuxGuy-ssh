@@ -19,7 +19,7 @@ thelinuxguy-ssh@github
 <br>
 <h2 align="center">Current Desktop</h2>
 
-![hyprtoji](https://github.com/user-attachments/assets/2e61a674-8bad-4943-8b5a-d013deb8b2c5)
+<img src="./toji.gif" alt="hyprtoji")
 
 
 <br>
