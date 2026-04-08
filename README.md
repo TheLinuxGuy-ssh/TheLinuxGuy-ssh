@@ -5,7 +5,7 @@ thelinuxguy-ssh@github
 <span style="color:#39ff14;">Role:</span> Server Administrator · Web Developer
 <span style="color:#39ff14;">Desktop Environment:</span> Hyprland · GNOME               
 <span style="color:#39ff14;">Shell:</span> ZSH
-<span style="color:#39ff14;">Editor:</span> Neovim · VSCode   
+<span style="color:#39ff14;">Editor:</span> Neovim · VSCodium   
 <span style="color:#39ff14;">Theme:</span> Matrix Dark
 
 <span style="color:#39ff14;">Lang:</span> JS · TS · BASH       
