@@ -2,6 +2,7 @@
 thelinuxguy-ssh@github
 -----------------
 <span style="color:#39ff14;">Mail: mail@linuxguy.tech</span>
+  
 <span style="color:#39ff14;">OS:</span> Arch (Primary) · Windows[VM] (for no privacy) · OSX[VM] (for feeling dumb)            
 <span style="color:#39ff14;">Role:</span> Server Administrator · Web Developer
 <span style="color:#39ff14;">Desktop Environment:</span> Hyprland · GNOME               
