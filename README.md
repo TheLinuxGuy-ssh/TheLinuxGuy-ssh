@@ -1,33 +1,26 @@
-<pre style="color:#00ff00; background-color:#000000; padding:12px; font-family:monospace;">
+```
 thelinuxguy-ssh@github
 -----------------
-<span style="color:#39ff14;">Mail: mr.linux.0@protonmail.com</span>
-  
-<span style="color:#39ff14;">OS:</span> Arch (Primary) · Windows[VM] (for no privacy) · OSX[VM] (for feeling dumb)            
-<span style="color:#39ff14;">Role:</span> Server Administrator · Web Developer
-<span style="color:#39ff14;">Desktop Environment:</span> Hyprland · GNOME               
-<span style="color:#39ff14;">Shell:</span> ZSH
-<span style="color:#39ff14;">Editor:</span> Neovim · VSCodium   
-<span style="color:#39ff14;">Theme:</span> Matrix Dark
+OS: Arch (Primary) · Windows[VM] (for no privacy) · OSX[VM] (for feeling dumb)
+Role: Server Administrator · Full-Stack Developer · Freelancer
+Desktop Environment: Hyprland · GNOME
+Shell: ZSH
+Editor: Neovim · VSCodium
+Theme: Matrix Dark
 
-<span style="color:#39ff14;">Lang:</span> JS · TS · BASH       
-<span style="color:#39ff14;">FW:</span> Svelte · React · Node
-<span style="color:#39ff14;">Stack:</span> Nginx · MySQL
+Lang: JS · TS · BASH
+FW: React · React Native · Next.js · Three.js
+Stack: Nginx · Supabase · Postgres · Docker
 
-<span style="color:#39ff14;">Projects:</span> TheSpartanRage · DarwinX · Start-Page · Unite.Do
-<span style="color:#39ff14;">Mode:</span> Building · Learning · Privacy
-<span style="color:#39ff14;">Music:</span> Soundtracks · Phonk · Soul
-</pre>
-<br>
-<h2 align="center">Current Desktop</h2>
+Projects: SkillHiive · HyprFect · DarwinX · Start-Page · Unite.Do
+Mode: Building SkillHiive · Freelancing · Privacy
+Music: Soundtracks · Phonk · Soul
+```
 
-<img src="./hyprfect.gif" alt="hyprtoji">
+## Current Desktop
 
+[![hyprtoji](https://github.com/TheLinuxGuy-ssh/TheLinuxGuy-ssh/raw/main/hyprfect.gif)](#)
 
-<br>
-<h2 align="center">Typing Speeds</h2>
-<p align="center">
-  <a href="https://monkeytype.com/profile/TheLinuxGuy-ssh">
-    <img src="https://raw.githubusercontent.com/thelinuxguy-ssh/thelinuxguy-ssh/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
-  </a>
-</p>
+## Typing Speeds
+
+[![My Monkeytype profile](https://raw.githubusercontent.com/thelinuxguy-ssh/thelinuxguy-ssh/monkeytype-readme/monkeytype-readme-pb.svg)](https://monkeytype.com/profile/TheLinuxGuy-ssh)
