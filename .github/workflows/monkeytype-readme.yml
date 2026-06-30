@@ -1,8 +1,8 @@
-name: generate monkeytype readme svg
+name: Generate Monkeytype README SVG
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,24 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: "16.x"
-
-      - name: Download SVG
+      - name: Download SVGs
         run: |
+          set -e
           mkdir -p public
-          curl -o public/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/TheLinuxGuy-ssh/shadow
-          curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/TheLinuxGuy-ssh/shadow?lb=true
-          curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/TheLinuxGuy-ssh/shadow?pb=true
-          curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.com/generate-svg/TheLinuxGuy-ssh/shadow?lbpb=true
 
-      - name: Push SVGs to monkeytype-readme branch
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+          curl -fL "https://monkeytype-readme.com/generate-svg/TheLinuxGuy-ssh/shadow" -o public/monkeytype-readme.svg
+          curl -fL "https://monkeytype-readme.com/generate-svg/TheLinuxGuy-ssh/shadow?lb=true" -o public/monkeytype-readme-lb.svg
+          curl -fL "https://monkeytype-readme.com/generate-svg/TheLinuxGuy-ssh/shadow?pb=true" -o public/monkeytype-readme-pb.svg
+          curl -fL "https://monkeytype-readme.com/generate-svg/TheLinuxGuy-ssh/shadow?lbpb=true" -o public/monkeytype-readme-lb-pb.svg
+
+      - name: Deploy SVGs
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: monkeytype-readme
           build_dir: public
