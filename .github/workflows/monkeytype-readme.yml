@@ -21,10 +21,10 @@ jobs:
           set -e
           mkdir -p public
 
-          curl -fL "https://monkeytype-readme.com/generate-svg/TheLinuxGuy-ssh/shadow" -o public/monkeytype-readme.svg
-          curl -fL "https://monkeytype-readme.com/generate-svg/TheLinuxGuy-ssh/shadow?lb=true" -o public/monkeytype-readme-lb.svg
-          curl -fL "https://monkeytype-readme.com/generate-svg/TheLinuxGuy-ssh/shadow?pb=true" -o public/monkeytype-readme-pb.svg
-          curl -fL "https://monkeytype-readme.com/generate-svg/TheLinuxGuy-ssh/shadow?lbpb=true" -o public/monkeytype-readme-lb-pb.svg
+          curl -fL "https://monkeytype-readme.zeabur.app/generate-svg/TheLinuxGuy-ssh/shadow" -o public/monkeytype-readme.svg
+          curl -fL "https://monkeytype-readme.zeabur.app/generate-svg/TheLinuxGuy-ssh/shadow?lb=true" -o public/monkeytype-readme-lb.svg
+          curl -fL "https://monkeytype-readme.zeabur.app/generate-svg/TheLinuxGuy-ssh/shadow?pb=true" -o public/monkeytype-readme-pb.svg
+          curl -fL "https://monkeytype-readme.zeabur.app/generate-svg/TheLinuxGuy-ssh/shadow?lbpb=true" -o public/monkeytype-readme-lb-pb.svg
 
       - name: Deploy SVGs
         uses: crazy-max/ghaction-github-pages@v5
