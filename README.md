@@ -1,3 +1,4 @@
+
 ```
 thelinuxguy-ssh@github
 -----------------
@@ -16,8 +17,8 @@ Projects: SkillHiive · HyprFect · DarwinX · Start-Page · Unite.Do
 Mode: Building SkillHiive · Freelancing · Privacy
 Music: Soundtracks · Phonk · Soul
 ```
-
 <div align="center">
+
 <sub>currently building <a href="https://github.com/TheLinuxGuy-ssh/SkillHive-Mobile"><b>SkillHiive</b></a> — a learning &amp; community platform with real-time video, self-hosted end to end</sub>
 
 </div>
@@ -39,13 +40,29 @@ Music: Soundtracks · Phonk · Soul
 
 <img src="https://raw.githubusercontent.com/TheLinuxGuy-ssh/TheLinuxGuy-ssh/main/profile/stats.svg" width="100%" alt="github stats"/>
 
-<img src="https://raw.githubusercontent.com/TheLinuxGuy-ssh/TheLinuxGuy-ssh/main/profile/top-langs.svg" width="100%" alt="top langs"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<sub>self-hosted via GitHub Actions, refreshed daily — no third-party uptime dependency</sub>
+### `~/wpm`
+ 
+<a href="https://monkeytype.com/profile/TheLinuxGuy-ssh"><img src="https://raw.githubusercontent.com/TheLinuxGuy-ssh/TheLinuxGuy-ssh/main/profile/monkeytype.svg" width="100%" alt="monkeytype stats"/></a>
+ 
+<a href="https://monkeytype.com/profile/TheLinuxGuy-ssh">→ full profile</a>
+ 
+</td>
+<td width="50%" valign="top">
+
+### `~/languages`
+
+<img src="https://raw.githubusercontent.com/TheLinuxGuy-ssh/TheLinuxGuy-ssh/main/profile/top-langs.svg" width="100%" alt="top langs"/>
 
 </td>
 </tr>
 </table>
+
+<sub>stats self-hosted via GitHub Actions, refreshed daily — no third-party uptime dependency</sub>
 
 <br>
 
@@ -54,21 +71,15 @@ Music: Soundtracks · Phonk · Soul
 | repo | what it is | stack |
 |---|---|---|
 | **[SkillHive-Mobile](https://github.com/TheLinuxGuy-ssh/SkillHive-Mobile)** | community + learning platform, self-hosted backend, real-time video rooms | React Native · Expo · LiveKit · Supabase |
-| **[Portfolio](https://github.com/thelinuxguy-ssh/portfolio)** | this site — 100/100 across every Lighthouse metric | SvelteKit · Vite |
-| **[DarwinX](https://github.com/TheLinuxGuy-ssh/DarwinX)** | macOS, simulated, in the browser, for free | JavaScript |
-| **[HyprFect](https://github.com/TheLinuxGuy-ssh/HyprFect)** | the rice pictured above | QML · Hyprland |
-| **[Start-Page](https://github.com/TheLinuxGuy-ssh/TLG-Start-Page)** | a browser start page from the future | JavaScript |
+| **[Portfolio](https://github.com/thelinuxguy-ssh/portfolio)** | Portfolio Website with 100/100 across every Lighthouse metric | SvelteKit · Vite |
+| **[DarwinX](https://github.com/TheLinuxGuy-ssh/DarwinX)** | macOS, simulated, in the browser, for free | React · JavaScript |
+| **[HyprFect](https://github.com/TheLinuxGuy-ssh/HyprFect)** | the rice pictured above | QML · Hyprland · GLSL |
+| **[Start-Page](https://github.com/TheLinuxGuy-ssh/TLG-Start-Page)** | a browser start page from the future | Next.JS · Docker · Typescript |
 
 <br>
 
 <div align="center">
 
-### `~/wpm`
-
-<a href="https://monkeytype.com/profile/TheLinuxGuy-ssh"><img src="https://raw.githubusercontent.com/thelinuxguy-ssh/thelinuxguy-ssh/monkeytype-readme/monkeytype-readme-pb.svg" alt="monkeytype profile"/></a>
-
-<br><br>
-
-<sub>⛓ self-hosted infra · 🔒 privacy first · 🐧 arch btw</sub>
+<sub>Self-hosted Infra · Privacy first · Arch BTW</sub>
 
 </div>
