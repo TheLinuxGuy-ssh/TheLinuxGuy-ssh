@@ -1,11 +1,11 @@
-<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="100%" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
   <style>
     .title { font: 600 18px 'Segoe UI', Ubuntu, monospace; fill: #00ff41; }
     .label { font: 400 13px 'Segoe UI', Ubuntu, monospace; fill: #8b949e; }
     .value { font: 600 13px 'Segoe UI', Ubuntu, monospace; fill: #c9d1d9; }
   </style>
 
-  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="transparent" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" rx="4.5" width="100%" height="100%" fill="transparent" stroke="#30363d"/>
 
   <text x="25" y="35" class="title">Monkeytype Stats</text>
 
