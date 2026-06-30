@@ -1,0 +1,32 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, monospace; fill: #00ff41; }
+    .label { font: 400 13px 'Segoe UI', Ubuntu, monospace; fill: #8b949e; }
+    .value { font: 600 13px 'Segoe UI', Ubuntu, monospace; fill: #c9d1d9; }
+    .icon { fill: #00ff41; }
+  </style>
+
+  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="transparent" stroke="#30363d"/>
+
+  <text x="25" y="35" class="title">Monkeytype Stats</text>
+
+  <g transform="translate(25, 65)">
+    <text x="0" y="0" class="label">Personal Best</text>
+    <text x="465" y="0" class="value" text-anchor="end">120 WPM</text>
+  </g>
+
+  <g transform="translate(25, 95)">
+    <text x="0" y="0" class="label">Accuracy</text>
+    <text x="465" y="0" class="value" text-anchor="end">98%</text>
+  </g>
+
+  <g transform="translate(25, 125)">
+    <text x="0" y="0" class="label">World Rank</text>
+    <text x="465" y="0" class="value" text-anchor="end">Top 15%</text>
+  </g>
+
+  <g transform="translate(25, 155)">
+    <text x="0" y="0" class="label">Mode</text>
+    <text x="465" y="0" class="value" text-anchor="end">time · 30s</text>
+  </g>
+</svg>
