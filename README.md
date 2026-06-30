@@ -16,8 +16,8 @@ Projects: SkillHiive · HyprFect · DarwinX · Start-Page · Unite.Do
 Mode: Building SkillHiive · Freelancing · Privacy
 Music: Soundtracks · Phonk · Soul
 ```
-<div align="center">
 
+<div align="center">
 <sub>currently building <a href="https://github.com/TheLinuxGuy-ssh/SkillHive-Mobile"><b>SkillHiive</b></a> — a learning &amp; community platform with real-time video, self-hosted end to end</sub>
 
 </div>
@@ -37,9 +37,11 @@ Music: Soundtracks · Phonk · Soul
 
 ### `~/stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheLinuxGuy-ssh&show_icons=true&theme=transparent&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" width="100%" alt="github stats"/>
+<img src="https://raw.githubusercontent.com/TheLinuxGuy-ssh/TheLinuxGuy-ssh/main/profile/stats.svg" width="100%" alt="github stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLinuxGuy-ssh&layout=compact&theme=transparent&hide_border=true&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="100%" alt="top langs"/>
+<img src="https://raw.githubusercontent.com/TheLinuxGuy-ssh/TheLinuxGuy-ssh/main/profile/top-langs.svg" width="100%" alt="top langs"/>
+
+<sub>self-hosted via GitHub Actions, refreshed daily — no third-party uptime dependency</sub>
 
 </td>
 </tr>
