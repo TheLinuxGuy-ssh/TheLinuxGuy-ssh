@@ -47,10 +47,8 @@ Music: Soundtracks · Phonk · Soul
 
 ### `~/wpm`
  
-<a href="https://monkeytype.com/profile/TheLinuxGuy-ssh"><img src="https://raw.githubusercontent.com/TheLinuxGuy-ssh/TheLinuxGuy-ssh/main/profile/monkeytype.svg" width="100%" alt="monkeytype stats"/></a>
- 
-<a href="https://monkeytype.com/profile/TheLinuxGuy-ssh">→ full profile</a>
- 
+<a href="https://monkeytype.com/profile/TheLinuxGuy-ssh"><img src="https://raw.githubusercontent.com/TheLinuxGuy-ssh/TheLinuxGuy-ssh/refs/heads/main/profile/monkeytype.svg" height="100%" width="100%" alt="monkeytype stats"/></a>
+
 </td>
 <td width="50%" valign="top">
 
