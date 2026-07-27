@@ -38,7 +38,8 @@ Music: Soundtracks · Phonk · Soul
 </td>
 <td width="50%" valign="top">
 <div align="center"><sub><b>~/stats</b></sub></div>
-<img src="https://github-readme-stats.vercel.app/api?username=thelinuxguy-ssh&show_icons=true&hide_border=true&bg_color=0c0c0e&title_color=22c55e&text_color=ffffff&icon_color=22c55e&ring_color=22c55e" width="100%" alt="github stats"/>
+ 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TheLinuxGuy-ssh&rank_icon=percentile&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=TheLinuxGuy-ssh&rank_icon=percentile&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
 </td>
 </tr>
 <tr>
