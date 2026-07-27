@@ -1,4 +1,6 @@
-
+<div align="center">
+<div align="left">
+ 
 ```
 thelinuxguy-ssh@github
 -----------------
@@ -8,18 +10,21 @@ Desktop Environment: Hyprland · GNOME
 Shell: ZSH
 Editor: Neovim · VSCodium
 Theme: Matrix Dark
-
 Lang: JS · TS · BASH
 FW: React · React Native · Next.js · Three.js
 Stack: Nginx · Supabase · Postgres · Docker
-
 Projects: SkillHiive · HyprFect · DarwinX · Start-Page · Unite.Do
 Mode: Building SkillHiive · Freelancing · Privacy
 Music: Soundtracks · Phonk · Soul
 ```
-<div align="center">
+</div>
 
-<sub>currently building <a href="https://github.com/TheLinuxGuy-ssh/SkillHive-Mobile"><b>SkillHiive</b></a> — a learning &amp; community platform with real-time video, self-hosted end to end</sub>
+[![Instagram](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/the.linuxguy)
+[![Website](https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=todoist&logoColor=black)](https://linuxguy.tech)
+[![Followers](https://img.shields.io/github/followers/thelinuxguy-ssh?style=for-the-badge&color=ffffff&labelColor=0c0c0e&label=FOLLOWERS)](https://github.com/thelinuxguy-ssh?tab=followers)
+[![Status](https://img.shields.io/badge/STATUS-Building-ffffff?style=for-the-badge&labelColor=0c0c0e)](#)
+
+<sub>currently building <a href="https://github.com/TheLinuxGuy-ssh/SkillHive-Mobile"><b>SkillHiive</b></a> — a community platform with a non-algorithmic feed, work rooms, self-hosted end to end</sub>
 
 </div>
 
@@ -28,39 +33,25 @@ Music: Soundtracks · Phonk · Soul
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### `~/desktop`
-
+<div align="center"><sub><b>~/desktop</b></sub></div>
 <img src="https://github.com/TheLinuxGuy-ssh/TheLinuxGuy-ssh/raw/main/hyprfect.gif" width="100%" alt="hyprland rice"/>
-
 </td>
 <td width="50%" valign="top">
-
-### `~/stats`
-
-<img src="https://raw.githubusercontent.com/TheLinuxGuy-ssh/TheLinuxGuy-ssh/main/profile/stats.svg" width="100%" alt="github stats"/>
-
+<div align="center"><sub><b>~/stats</b></sub></div>
+<img src="https://github-readme-stats.vercel.app/api?username=thelinuxguy-ssh&show_icons=true&hide_border=true&bg_color=0c0c0e&title_color=22c55e&text_color=ffffff&icon_color=22c55e&ring_color=22c55e" width="100%" alt="github stats"/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### `~/wpm`
- 
+<div align="center"><sub><b>~/wpm</b></sub></div>
 <a href="https://monkeytype.com/profile/TheLinuxGuy-ssh"><img src="https://raw.githubusercontent.com/TheLinuxGuy-ssh/TheLinuxGuy-ssh/refs/heads/main/profile/monkeytype.svg" height="100%" width="100%" alt="monkeytype stats"/></a>
-
 </td>
 <td width="50%" valign="top">
-
-### `~/languages`
-
+<div align="center"><sub><b>~/languages</b></sub></div>
 <img src="https://raw.githubusercontent.com/TheLinuxGuy-ssh/TheLinuxGuy-ssh/main/profile/top-langs.svg" width="100%" alt="top langs"/>
-
 </td>
 </tr>
 </table>
-
-<sub>stats self-hosted via GitHub Actions, refreshed daily — no third-party uptime dependency</sub>
 
 <br>
 
